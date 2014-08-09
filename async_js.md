@@ -117,6 +117,7 @@ $(window).trigger("swap_end");
   - done，fail，always
   - reject，resolve
   - when，几个promise的合并
+  - [阮一峰写的deferred对象详解](http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html)
 
 ### jquery的动画queue
 
